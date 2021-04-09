@@ -27,6 +27,12 @@ RestApi/api/api.php
 - in my website parameter is 'perpose' 
 - for example http://localhost/RestApi/api/api.php?perpose=count_all_users
 - list of operations done the API
-- 
-perpose=count_all_users (the ethiopia )
+
+
+perpose=count_all_users (to count the number of all users)
 - http://localhost/RestApi/api/api.php?perpose=count_all_users
+
+perpose=last_name_count_all (to count the number of all users)
+- - http://localhost/RestApi/api/api.php?perpose=count_all_users
+
+
