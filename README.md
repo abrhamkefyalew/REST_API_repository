@@ -16,8 +16,11 @@ Tolls:
 - wamp64
 - Text editor
 
-\n
 Code Documentation
-RestApi\api\api.php
+RestApi/api/api.php
 - It is the API interface for the REST HTTP API project.
-- 
+- request for the http://localhost/RestApi/api/api.php and use parameter=value on the url.
+- in my website parameter is 'perpose' 
+- for example http://localhost/RestApi/api/api.php?perpose=count_all_users
+- list of operations done the API
+perpose=count_all_users
